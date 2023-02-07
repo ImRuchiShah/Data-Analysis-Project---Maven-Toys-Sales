@@ -1,8 +1,8 @@
-# Data-Analysis-Project - Maven-Toys-Sales
+# Data-Analysis-Project - Mexico-Toys-Sales
 
 **About this project**
 
-This project was part of the Maven Challenge series. The dataset is a sample of sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily sales transactions, and current inventory levels at each location.
+The dataset is a sample of sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily sales transactions, and current inventory levels at each location.
 
 **About the dataset**:
 
@@ -12,6 +12,17 @@ This dataset contains 4 tables, in CSV format:
 - The Stores table contains the 50 Maven Toys store locations (each record represents one store), with fields containing details about the store location, type, and date it opened
 - The Sales table contains the units sold in over 800,000 sales transactions from January 2017 to October 2018 (each record represents the purchase of a specific product at a specific store on a specific date)
 - The Inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct 1, 2018)
+
+**Data Source:** https://www.mavenanalytics.io/blog/maven-toys-challenge
+
+**Tools Used:** Microsoft Power BI
+
+**Steps Performed:**
+- Connecting and Shaping the source date
+- Building a relational model
+- Adding calculated columns and measures
+- Designing an interactive report
+
 
 **Key Questions:**
 
