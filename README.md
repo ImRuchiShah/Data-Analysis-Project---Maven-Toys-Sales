@@ -17,11 +17,29 @@ This dataset contains 4 tables, in CSV format:
 
 **Tools Used:** Microsoft Power BI
 
+* End user of the Dashboard:
+  * Regional Sales Manager
+
+**Key business goals and objectives:**
+o	Increase Revenue
+o	Minimize revenue loss due to lack of inventory.
+
+**Questions to answer:**
+o	Revenue going up or down?
+o	Main Revenue drivers?
+o	Missing any product in stock?
+
+**Frequency of Dashboard review:**
+o	Once a month
+
+
+
 **Steps Performed:**
 - Connecting and Shaping the source date
 - Building a relational model
 - Adding calculated columns and measures
 - Designing an interactive report
+
 
 
 **Key Questions:**
@@ -31,9 +49,3 @@ This dataset contains 4 tables, in CSV format:
 - Are sales being lost with out-of-stock products at certain locations?
 - How much money is tied up in inventory at the toy stores? How long will it last?
 
-**Key Insights:**
-
-- Toys is, on average, the most profitable category.
-- Airport locations are more profitable and should be a focus for expansion.
-- Even though Electronics has the most profitable product, the category as a whole is trending downward.
-- Art & Crafts is an up and coming profitable category and is trending up over the last year.
