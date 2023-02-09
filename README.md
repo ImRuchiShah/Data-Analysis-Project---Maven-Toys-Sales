@@ -17,35 +17,24 @@ This dataset contains 4 tables, in CSV format:
 
 **Tools Used:** Microsoft Power BI
 
-* End user of the Dashboard:
-  * Regional Sales Manager
+**End user of the Dashboard:**
+  Regional Sales Manager
 
 **Key business goals and objectives:**
-o	Increase Revenue
-o	Minimize revenue loss due to lack of inventory.
-
-**Questions to answer:**
-o	Revenue going up or down?
-o	Main Revenue drivers?
-o	Missing any product in stock?
+ * Increase Revenue
+ * Minimize revenue loss due to lack of inventory.
 
 **Frequency of Dashboard review:**
-o	Once a month
+ Once a month
 
-
+**Questions to answer:**
+ * Is Products Monthly Revenue going up or down?
+ * Which are main product Revenue drivers?
+ * Are there any seasonal trends in the sales data?
+ * Are there any missing product in stock? How much is revenue loss due to such out of stock products?
 
 **Steps Performed:**
 - Connecting and Shaping the source date
 - Building a relational model
 - Adding calculated columns and measures
 - Designing an interactive report
-
-
-
-**Key Questions:**
-
-- Which product categories drive the biggest profits? Is this the same across store locations?
-- Can you find any seasonal trends or patterns in the sales data?
-- Are sales being lost with out-of-stock products at certain locations?
-- How much money is tied up in inventory at the toy stores? How long will it last?
-
