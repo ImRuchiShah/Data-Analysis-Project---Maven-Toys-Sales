@@ -38,3 +38,9 @@ This dataset contains 4 tables, in CSV format:
 - Building a relational model
 - Adding calculated columns and measures
 - Designing an interactive report
+
+**Part 2**
+In addition to it, another analysis is made to analyse the expansion possibility based on the profits incured from the products.
+
+
+
