@@ -31,7 +31,7 @@ This dataset contains 4 tables, in CSV format:
  * Is Products Monthly Revenue going up or down?
  * Which are main product Revenue drivers?
  * Are there any seasonal trends in the sales data?
- * Are there any missing product in stock? How much is revenue loss due to such out of stock products?
+ * Are there any missing product in stock? 
 
 **Steps Performed:**
 - Connecting and Shaping the source date
@@ -39,8 +39,9 @@ This dataset contains 4 tables, in CSV format:
 - Adding calculated columns and measures
 - Designing an interactive report
 
-**Part 2**
-In addition to it, another analysis is made to analyse the expansion possibility based on the profits incured from the products.
+<h3 align = center> Expansion Analysis </h3>
+
+Another Dashboard is made using the same dataset to analyse the expansion possibility based on the profits incured from the products.
 
 
 
