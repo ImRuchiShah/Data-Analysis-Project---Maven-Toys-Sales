@@ -15,6 +15,10 @@ This dataset contains 4 tables, in CSV format:
 
 **Data Source:** https://www.mavenanalytics.io/blog/maven-toys-challenge
 
+![image](https://user-images.githubusercontent.com/123503542/219808441-fbbcc044-fdde-475e-925c-3792ad5cbaed.png)
+
+
+
 **Tools Used:** Microsoft Power BI
 
 **End user of the Dashboard:**
