@@ -26,16 +26,15 @@ This dataset contains 4 tables, in CSV format:
 
 **Key business goals and objectives:**
  * Increase Revenue
- * Minimize revenue loss due to lack of inventory.
 
 **Frequency of Dashboard review:**
  Once a month
 
 **Questions to answer:**
+ * Are there any seasonal trends in the sales data?
  * Is Products Monthly Revenue going up or down?
  * Which are main product Revenue drivers?
- * Are there any seasonal trends in the sales data?
- * Are there any missing product in stock? 
+ * Which location and product category drives most of the revenue?
 
 **Steps Performed:**
 - Connecting and Shaping the source date
@@ -47,5 +46,12 @@ This dataset contains 4 tables, in CSV format:
 
 Another Dashboard is made using the same dataset to analyse the expansion possibility based on the profits incured from the products.
 
-
+**Key business goals and objectives:**
+ * Analyse location and product for exapnsion
+ 
+**Questions to answer:**
+ * Are there any seasonal profit trends?
+ * Is Products Monthly Profit going up or down as compared to previous year and previous month?
+ * Which location and product category drives most of the profit? 
+ * Which are main product profitable products?
 
